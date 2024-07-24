@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samrat's homepage"
+title: "👋 Hello!! I am Samrat"
 author_profile: true
 redirect_from: 
   - /about/
