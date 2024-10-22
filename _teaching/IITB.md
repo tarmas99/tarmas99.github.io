@@ -1,5 +1,5 @@
 ---
-title: "At IIT B"
+title: "IIT B"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IITB
