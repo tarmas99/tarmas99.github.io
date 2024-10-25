@@ -1,11 +1,6 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Education"
 collection: education
-type: "Talk"
-permalink: /education/my_education
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
 ---
 
 ## Ph.D. in Data Science and Artificial Intelligence
