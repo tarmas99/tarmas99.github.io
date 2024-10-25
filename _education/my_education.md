@@ -1,6 +1,6 @@
 ---
 title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
+collection: education
 type: "Talk"
 permalink: /education/my_education
 venue: "UC San Francisco, Department of Testing"
