@@ -13,6 +13,7 @@ redirect_from:
     <li> Centre for Machine Intelligence and Data Science </li>
     <li> Indian Institute of Technology, Bombay. </li>
     <li> July 2023 - Present. </li>
+    <li> GPA: 8.94</li>
     <li> <strong> Thesis advisors: </strong> Prof. Biplab Banerjee, Prof. Subhasis Chaudhuri and Prof. Gemma Roig </li>
   </ul>
 
@@ -22,6 +23,7 @@ redirect_from:
   <li> Indian Institute of Technolgy, Patna </li>
   <li> 2021 - 2023. </li>
   <li>  🥈 Received the Institute Silver Medal for being the department topper in the Computer Science and Engineering department. </li>
+  <li> DGPA: 9.69</li>
   <li> <strong> Thesis advisor: </strong> Prof. Asif Ekbal</li>
 </ul>
   
@@ -30,6 +32,7 @@ redirect_from:
     <li> Computer Science and Engineering </li>
     <li> Government College of Engineering and Leather Technology, Kolkata </li>
     <li> 2017 - 2021. </li>
+    <li> DGPA: 9.34</li>
     <li> <strong> Thesis advisor: </strong> Prof. Debayan Ganguly </li>
   </ul>
   
