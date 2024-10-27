@@ -1,6 +1,6 @@
 ---
-permalink: /my_publication/
-title: "TA"
+permalink: /my_publications/
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 
-# Publications
+1. Hyperbolic Uncertainty‑Aware Few‑Shot Incremental Point Cloud Segmentation
+   <br> Tanuj Sur, **Samrat Mukherjee**, Kaizer Rahman, Subhashis Chaudhuri, Biplab Banerjee
+   <br> **_[Under Review]_** IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025.
 
-1. UIDAPLE
-
-2. HIPO
+2. UIDAPLE: Unsupervised Incremental Domain Adaptation through Adaptive Prompt Learning
+   <br> **Samrat Mukherjee**, Tanuj Sur, Saurish Seksaria, Subhashis Chaudhuri, Gemma Roig, Biplab Banerjee
+   <br> **_[Under Review]_** International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025.
