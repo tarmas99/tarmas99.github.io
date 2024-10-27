@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /my_publication/
 title: "TA"
 author_profile: true
 redirect_from: 
