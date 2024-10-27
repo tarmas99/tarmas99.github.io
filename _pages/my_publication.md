@@ -4,7 +4,7 @@ title: "TA"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /my_publication.html
 ---
 
 
