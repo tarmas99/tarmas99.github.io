@@ -10,15 +10,17 @@ main:
 
   # - title: "Education"
   #   url: /education/    
-
+  
+  - title: "Publications"
+    url: /my_publication/
+    
   - title: "Teaching"
-    url: /teaching/   
+    url: /ta/   
   
   - title: "CV"
     url: /files/Resume.pdf
 
-  - title: "Publications"
-    url: /my_publication/
+ 
     
   # - title: "Portfolio"
   #   url: /portfolio/
