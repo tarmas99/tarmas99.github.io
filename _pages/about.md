@@ -11,3 +11,5 @@ I am supervised by Prof. Biplab Banerjee, Prof. Subhashis Chaudhuri, and Prof. G
 
 Prior to joining my PhD, I did my Master's from the Indian Institute of Technology, Patna, under the supervision of Prof. Asif Ekbal. I worked on a variety of problems related to Medical imaging (Thesis topic) and code summarization (AI for Code). 
 
+🥈 I received **Institute Silver Medal** in my M.Tech. at Indian Instiute of Technology, Patna.
+
