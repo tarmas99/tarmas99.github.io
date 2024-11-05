@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student at the Centre for Machine Intelligence and Data Science, Indian Institute of Technology, Bombay.
-I am supervised by Prof. Biplab Banerjee, Prof. Subhashis Chaudhuri, and Prof. Gemma Roig (Goethe University, Frankfurt). I work on Computer Vision problems related to Domain Adaptation, Domain Generalization and related topics in a continually changing scenario. I am grateful to have my PhD studies funded by Prime Minister Research Fellowship Programme.
+I am currently a second-year PhD candidate at the Centre for Machine Intelligence and Data Science, Indian Institute of Technology Bombay. My research is conducted under the guidance of Prof. Biplab Banerjee, Prof. Subhashis Chaudhuri, and Prof. Gemma Roig from Goethe University, Frankfurt. My primary research interests lie in Computer Vision, with a specific focus on Domain Adaptation, Domain Generalization in Continually changing environment under limited data scenarios. I am grateful to be a recipient of the prestigious Prime Minister Research Fellowship Programme, which supports my doctoral studies.
 
-Prior to joining my PhD, I did my Master's from the Indian Institute of Technology, Patna, under the supervision of Prof. Asif Ekbal. I worked on a variety of problems related to Medical imaging (Thesis topic) and code summarization (AI for Code). 
+Prior to joining my PhD, I completed my Master's degree at the Indian Institute of Technology Patna, where I worked under the supervision of Prof. Asif Ekbal. My Master’s thesis focused on Medical Imaging, and I also conducted research in AI for Code, specifically on code summarization.
 
 🥈 I received **Institute Silver Medal** in my M.Tech. at Indian Instiute of Technology, Patna.
 
