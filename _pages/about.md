@@ -12,5 +12,6 @@ Prior to joining my PhD, I completed my Master's degree at the Indian Institute 
 
 # News
 **[Nov 2024]** Paper accepted at COLING-Industry Track, 2025.
+<br>
 **[May 2024]** 🥈 I received **Institute Silver Medal** in my M.Tech. at Indian Instiute of Technology, Patna.
 
