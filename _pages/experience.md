@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Research Internship
-1. Tata Consultancy Services Reseaarch - Bengaluru.
+1. Tata Consultancy Services Research - Bengaluru.
    <br> Advisor: Dr. Hrishikesh Sharma.
    <br> Duration: May 2022 - August 2022.
 
@@ -19,3 +19,4 @@ redirect_from:
 
 ## Volunteer experience
 _**Reviewer:**_ ICVGIP (2023, 2024), ICONIP (2022), AACL-Demo Track (2023).
+
