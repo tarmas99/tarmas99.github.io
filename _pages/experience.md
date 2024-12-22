@@ -18,5 +18,5 @@ redirect_from:
    <br> Duration: June 2019 - August 2019.
 
 ## Volunteer experience
-_**Reviewer:**_ ICVGIP (2023, 2024), ICONIP (2022), AACL-Demo Track (2023).
+_**Reviewer:**_ GeoCV(Workshop at WACV) (2025), ICVGIP (2023, 2024), ICONIP (2022), AACL-Demo Track (2023).
 
