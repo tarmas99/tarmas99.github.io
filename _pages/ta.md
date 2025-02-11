@@ -8,10 +8,13 @@ redirect_from:
 ---
 
 ## In IIT Bombay
-1. DS203 : Programming for Data Science
+1. GNR638 : Machine Learning for Remote Sensing-II
+   <br> Instructor: Prof. Biplab Banerjee
+   <br> Timeline: January 2024 - May 2024.
+2. DS203 : Programming for Data Science
    <br> Instructor: Prof. Vinay Kulkarni
    <br> Timeline: July 2024 - December 2024.
-2. DS303 : Introduction to Machine Learning
+3. DS303 : Introduction to Machine Learning
    <br> Instructor: Prof. Manjesh Hanawal
    <br> Timeline: January 2024 - May 2024.
 
