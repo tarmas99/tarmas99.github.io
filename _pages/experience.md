@@ -18,7 +18,8 @@ redirect_from:
    <br> Duration: June 2019 - August 2019.
 
 ## Volunteer experience
-_**Reviewer:**_ 
-1. [Conferences] GeoCV(Workshop at WACV) (2025), ICVGIP (2023, 2024), ICONIP (2022), AACL-Demo Track (2023).
-2. [Journals] Neural Networks (2025), IJCV (2025).
+_**Conferences:**_ 
+  GeoCV(Workshop at WACV) (2025), ICVGIP (2023, 2024), ICONIP (2022), AACL-Demo Track (2023).
+_**Journals:**_ 
+  Neural Networks (2025), IJCV (2025).
 
