@@ -20,6 +20,8 @@ redirect_from:
 ## Volunteer experience
 _**Conferences:**_ 
   GeoCV(Workshop at WACV) (2025), ICVGIP (2023, 2024), ICONIP (2022), AACL-Demo Track (2023).
+
+  
 _**Journals:**_ 
   Neural Networks (2025), IJCV (2025).
 
