@@ -11,6 +11,8 @@ I am currently a second-year PhD candidate at the Centre for Machine Intelligenc
 Prior to joining my PhD, I completed my Master's degree at the Indian Institute of Technology Patna, where I worked under the supervision of Prof. Asif Ekbal. My Master’s thesis focused on Medical Imaging, and I also conducted research in AI for Code, specifically on code summarization.
 
 # News
+**[Jun 2025]** Paper accepted at TALLIP, 2025.
+<br>
 **[Feb 2025]** Paper accepted at CVPR, 2025.
 <br>
 **[Dec 2024]** Paper accepted at ICASSP, 2025.
