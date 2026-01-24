@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2026
 1. PGO-BEN: Proxy-Guided Orthogonalization and Beta Ensembling for Few-Shot Domain-Incremental Learning
-   <br> Samrat Mukherjee, Thiivyanth Venkateshwaran, Eric Nuertey Coleman, Luigi Quarantiello, Julio Hurtado, Vincenzo Lomonaco, Gemma Roig, Subhashis Chaudhuri, Biplab Banerjee
+   <br> **Samrat Mukherjee**, Thiivyanth Venkateshwaran, Eric Nuertey Coleman, Luigi Quarantiello, Julio Hurtado, Vincenzo Lomonaco, Gemma Roig, Subhashis Chaudhuri, Biplab Banerjee
    <br> Transactions of Machine Learning Research (TMLR) 2026.
 
 
